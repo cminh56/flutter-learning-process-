@@ -1,0 +1,43 @@
+complete Flutter Tutorial For Beginners In 1 Hour
+-knowing
+FloatingActionButton Widget
+ Empty Function
+ Icon Widget
+ debugPrint
+ Create a variable
+ NavigationBar Widget
+ Solve the red screen
+ setState
+ Create new files
+ Center Widget
+ ElevatedButton Widget
+ Navigator push (Add Screen Over)
+ AppBar leadeing
+ Navigator pop (Remove Screen)
+ Column Widget
+ Image.asset Widget
+ Divider Widget
+ SizedBox Widget
+ Container Widget
+ TextStyle
+ double.infinity
+ Refactor
+ Container margin & padding
+ ElevatedButton Widget
+ OutlinedButton Widget
+ TextButton Widget
+ Row Widget
+ GestureDetector Widget
+ Switch Widget
+ Buttons style
+ Conditions ? :
+ Checkbox Widget
+ Nullable Variable
+ Image.network Widget
+ SingleChildScrollView Widget
+ AppBar actions
+ IconButton
+ Create a List of Widgets
+ Select and item from a List
+ ListView.builder Widget
+ ListTile Widget
